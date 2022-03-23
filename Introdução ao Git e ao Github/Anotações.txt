@@ -2,6 +2,8 @@ Link para download do Git: https://git-scm.com/downloads
 
 Passo a passo:
 
+git clone
 git status
 git add *
 git commit
+git push
